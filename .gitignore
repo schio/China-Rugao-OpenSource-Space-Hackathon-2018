@@ -152,4 +152,4 @@ cython_debug/
 #.idea/
 
 
-.2018_china_hack/
+2018_china_hack/*.json

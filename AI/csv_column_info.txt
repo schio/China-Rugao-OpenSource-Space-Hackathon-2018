@@ -1,0 +1,21 @@
+Summary	
+	Clear 1000
+	Partly Cloudy 2000
+	Mostly Cloudy 3000
+	Overcast 4000
+	Foggy 5000
+	Breezy 6000
+	
+Precip Type	
+	normal 1000
+	rain 2000
+	snow 3000
+	
+Temperature(C)	
+	orig value + 100
+	
+el_power	
+	(orig value +1)*3000
+	
+Humidity	
+	orig value * 10000
